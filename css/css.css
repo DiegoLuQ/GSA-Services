@@ -334,7 +334,7 @@ input[id="3"]:checked ~ .pagination .pagination-item[for="3"]{
 /* PROVEEDORES */
 .proveedores {
     width: 100%;
-    max-width: 1500px;
+    max-width: 2000px;
     height: 200px;
     /* border: 2px solid red; */
     margin: 0 auto;
@@ -478,13 +478,11 @@ input[id="3"]:checked ~ .pagination .pagination-item[for="3"]{
 .container-promotion{
     /* background:#EE2024; */
     border-top:2px solid black ;
-    background:#EE2024;
-    max-width: 1500px;
+  
+    max-width: 2000px;
     margin: 0 auto;
 }
-.container-promo{
-    background:#EE2024;
-}
+
 .promotion img{
     max-width: 100%
 }
